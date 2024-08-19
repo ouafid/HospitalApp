@@ -1,0 +1,24 @@
+npm install @react-navigation/stack
+npm install @react-navigation/native
+npm install @react-navigation/native-stack
+npm install react-native-screens react-native-safe-area-context
+npm install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+npm install axios
+# npm install @react-navigation/native @react-navigation/material-top-tabs
+npm install @react-navigation/native @react-navigation/bottom-tabs
+npm install @react-native-picker/picker
+npm install @react-native-community/datetimepicker
+npm install react-datetime
+npm install @react-navigation/drawer
+npm install react-native-draggable-flatlist
+npm install react-native-vector-icons
+
+
+
+
+
+
+
+
+
+
